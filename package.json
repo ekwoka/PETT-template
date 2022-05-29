@@ -19,10 +19,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@ekwoka/preact-global-state": "^0.1.0",
     "@heroicons/react": "^1.0.6",
     "dotenv": "^16.0.1",
     "preact": "^10.7.2",
-    "preact-global-state": "^1.0.4",
     "preact-router": "^4.0.1"
   },
   "devDependencies": {
